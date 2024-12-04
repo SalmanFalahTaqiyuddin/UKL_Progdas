@@ -19,7 +19,7 @@ public class soalSusah3 {
         Map<Integer, Integer> frekuensi = new HashMap<>();
 
         for (int num : arr) {
-            frekuensi.put(num, frekuensi.getOrDefault(num, 0) + 1); //pmilihan ketua kelas
+            frekuensi.put(num, frekuensi.getOrDefault(num, 0) + 1); 
         }
 
         System.out.println("Frekuensi setiap elemen:");
