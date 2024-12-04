@@ -1,8 +1,6 @@
-package Soalbeneran;
-
 import java.util.Scanner;
 
-public class soal21w {
+public class soalSedang1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
         
