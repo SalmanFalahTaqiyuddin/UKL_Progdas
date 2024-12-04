@@ -1,9 +1,8 @@
-package Soalbeneran;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class soal33w {
+public class soalSusah3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
