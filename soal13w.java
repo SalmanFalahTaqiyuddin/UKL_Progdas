@@ -1,6 +1,4 @@
-package Soalbeneran;
-
-public class soal13w {
+public class soalMudah3 {
     public static void main(String[] args) {
         for (int i = 50; i >= 39; i--) {
           switch (i) {
