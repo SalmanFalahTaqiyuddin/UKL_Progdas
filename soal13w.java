@@ -47,18 +47,3 @@ public class soalMudah3 {
     }
     
 }
-// //50. saya anak moklet
-// 49. saya anak wikusama
-// 48. saya angkatan 33
-// 47. saya anak wikusama
-// 46. saya anak moklet
-// 45. saya angkatan 33
-// 44. saya anak moklet
-// 43. saya anak wikusama
-// 42. saya angkatan 33
-// 41. saya anak wikusama
-// 40. saya anak moklet
-// 39. saya angkatan 33
-// .
-// .
-// 1. saya senang
